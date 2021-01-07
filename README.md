@@ -9,13 +9,9 @@
 
 2. MARCO TEORICO
 
-[](https://github.com/JosueCamp2020/InformeLeyesKirchhoff/blob/main/Imagenes/LeyKir.jpg)
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Ana%CC%81lisis%20de%20mallas-3.jpg)
 
 3. DIAGRAMAS
-
-Resolución Ejercicios
-
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
 
 Tabla 3.1
 
@@ -24,6 +20,42 @@ Tabla 3.1
 | 1 | 11.45mA  | 11.5mA |
 | 2 | 2.847mA | 2.85mA |
 | 3 | 0,488 | 0.49mA |
+
+Armado Circuito Completo
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1Vacio.png)
+
+Circuito de la Corriente Completo
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1.png)
+
+Armado Circuito 1
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1Vacio.png)
+
+Circuito de la Corriente 1 
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1.png)
+
+Armado Circuito 2
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2Vacio.png)
+
+Circuito de la Corriente 2
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2.png)
+
+Armado Circuito 3
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3Vacio.png)
+
+Circuito de la Corriente 3
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3.png)
+
+Resolución Ejercicios
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
 
 
 4. LISTA DE COMPONENTES
