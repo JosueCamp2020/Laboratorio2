@@ -23,7 +23,7 @@ Tabla 3.1
 
 Armado Circuito Completo
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/TotalVacio.png)
 
 Circuito de la Corriente Completo
 
@@ -39,7 +39,7 @@ Circuito de la Corriente 1
 
 Armado Circuito 2
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2Vacia.png)
 
 Circuito de la Corriente 2
 
@@ -47,7 +47,7 @@ Circuito de la Corriente 2
 
 Armado Circuito 3
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3Vacia.png)
 
 Circuito de la Corriente 3
 
