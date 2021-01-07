@@ -9,7 +9,7 @@
 
 2. MARCO TEORICO
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Ana%CC%81lisis%20de%20mallas-3.jpg)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Ana%CC%81lisis%20de%20mallas-3.jpg)
 
 3. DIAGRAMAS
 
@@ -23,39 +23,39 @@ Tabla 3.1
 
 Armado Circuito Completo
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1Vacio.png)
 
 Circuito de la Corriente Completo
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Total1.png)
 
 Armado Circuito 1
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1Vacio.png)
 
 Circuito de la Corriente 1 
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1.png)
 
 Armado Circuito 2
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2Vacio.png)
 
 Circuito de la Corriente 2
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente2.png)
 
 Armado Circuito 3
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3Vacio.png)
 
 Circuito de la Corriente 3
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente3.png)
 
 Resolución Ejercicios
 
-[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
 
 
 4. LISTA DE COMPONENTES
