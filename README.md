@@ -5,7 +5,13 @@
 
 1.1 OBJETIVOS GENERALES
 
+* Comprobar experimentalmente el Análisis de Mallas.
+
 1.2 OBJETIVOS ESPECIFICOS
+
+* Determiar los pasos para realizar el Análisis de Mallas.
+*	Comprender cual es la función principal del Análisis de Mallas.
+* Determinar que es una Malla.
 
 2. MARCO TEORICO
 
@@ -69,6 +75,11 @@ Resolución Ejercicios
 
 5. EXPLICACIÓN
 
+El Analisis de Mallas esta diseñado con el objetivo de analizar los circuitos de tal forma que podamos determinar el movimiento de la corriente por el circuito, este analisis forma parte de la segunda ley de Kirchhoff, ya que esta se enfoca en circuitos cerrados.
+La segunda ley de Kirchhoff nos dice que la suma algebraica de todos los voltajes en una malla o bucle cerrado, debe ser igual a cero.
+Al referirnos a la suma algebraica, implica el cuidado de las polaridades de la fuente de energía, así como todos los signos de las caídas de tensión de cada uno de los componentes eléctricos.
+De modo que, al momento de aplicar la segunda ley de Kirchhoff, hay que ser muy precavidos en sentido de la orientación de la corriente y, por ende, con los signos de los voltajes de los componentes contenidos dentro de la malla.
+
 6. MANUAL DE USUARIO
 
 ![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Manual.jpg)
@@ -86,6 +97,16 @@ Resolución Ejercicios
 6 Contiene todas las herramientas de edición de documento del TinkerCAD: Copiar, Pegar, Duplicar, Eliminar, Rehacer, Deshacer y si damos al panel justo al lado del nombre podremos cambiar la visibilidad del archivo.
 
 7. CONCLUSIONES
+
+*	Al realizar el analisis de mallas de forma experimental podemos comprobar la divición de las corrientes dentro de cada malla del circuito y de igual forma comprobamos como la segunda ley de Kirchhoff se cumple al verificar que la suma de todos los voltajes es igual a cero.
+*	Para realizar el análisis de mallas es necesario seguir los siguientes pasos:
+**	Identifica las mallas (las ventanas abiertas del circuito).
+**	Asigna una corriente a cada malla, usando una dirección consistente (a favor o en contra de las manecillas del reloj).
+**	Escribe las ecuaciones para la ley del voltaje de Kirchhoff alrededor de cada malla.
+**	Resuelve el sistema de ecuaciones resultante para todas las corrientes de malla.
+**	Determina las corrientes y los voltajes de los demás elementos del circuito por medio de la ley de Ohm.
+*	El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver.
+*	En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos.
 
 Tabla 3.1
 
