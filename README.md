@@ -52,14 +52,7 @@ Circuito de la Corriente 3
 Resolución Ejercicios
 
 ![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
-
-Tabla 3.1
-
-| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
-| ------------- | ------------- | ------------- |
-| 1 | 11.45mA  | 11.5mA |
-| 2 | 2.847mA | 2.85mA |
-| 3 | 0,488 | 0.49mA |
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos2.png)
 
 4. LISTA DE COMPONENTES
 
@@ -93,5 +86,13 @@ Tabla 3.1
 6 Contiene todas las herramientas de edición de documento del TinkerCAD: Copiar, Pegar, Duplicar, Eliminar, Rehacer, Deshacer y si damos al panel justo al lado del nombre podremos cambiar la visibilidad del archivo.
 
 7. CONCLUSIONES
+
+Tabla 3.1
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
+| ------------- | ------------- | ------------- |
+| 1 | 11.45mA  | 11.5mA |
+| 2 | 2.847mA | 2.85mA |
+| 3 | 0,488 | 0.49mA |
 
 8. BIBLIOGRAFIA
