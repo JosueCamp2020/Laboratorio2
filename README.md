@@ -13,13 +13,9 @@
 
 3. DIAGRAMAS
 
-Tabla 3.1
+Ejercicio Propuesto
 
-| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
-| ------------- | ------------- | ------------- |
-| 1 | 11.45mA  | 11.5mA |
-| 2 | 2.847mA | 2.85mA |
-| 3 | 0,488 | 0.49mA |
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Diagrama%20Circuito%20A%20Realizar.png)
 
 Armado Circuito Completo
 
@@ -57,6 +53,13 @@ Resolución Ejercicios
 
 ![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
 
+Tabla 3.1
+
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
+| ------------- | ------------- | ------------- |
+| 1 | 11.45mA  | 11.5mA |
+| 2 | 2.847mA | 2.85mA |
+| 3 | 0,488 | 0.49mA |
 
 4. LISTA DE COMPONENTES
 
