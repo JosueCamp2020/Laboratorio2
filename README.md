@@ -13,7 +13,18 @@
 
 3. DIAGRAMAS
 
-Tabla 1.3 ()
+Resolución Ejercicios
+
+[](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Calculos1.png)
+
+Tabla 3.1
+
+| CANTIDAD | MATERIAL O EQUIPO |
+| ------------- | ------------- |
+| 2 | Fuentes de Voltaje CD  |
+| 3 | Multímetros Digitales |
+| 1 | Resistor de 820 Ω |
+
 
 4. LISTA DE COMPONENTES
 
