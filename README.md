@@ -31,11 +31,11 @@ Circuito de la Corriente Completo
 
 Armado Circuito 1
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1Vacio.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1.png)
 
 Circuito de la Corriente 1 
 
-![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1.png)
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Corriente1Vacio.png)
 
 Armado Circuito 2
 
