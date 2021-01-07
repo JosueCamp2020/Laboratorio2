@@ -19,11 +19,11 @@ Resolución Ejercicios
 
 Tabla 3.1
 
-| CANTIDAD | MATERIAL O EQUIPO |
-| ------------- | ------------- |
-| 2 | Fuentes de Voltaje CD  |
-| 3 | Multímetros Digitales |
-| 1 | Resistor de 820 Ω |
+| MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
+| ------------- | ------------- | ------------- |
+| 1 | 11.45mA  | 11.5mA |
+| 2 | 2.847mA | 2.85mA |
+| 3 | 0,488 | 0.49mA |
 
 
 4. LISTA DE COMPONENTES
