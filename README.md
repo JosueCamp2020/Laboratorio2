@@ -75,6 +75,20 @@ Resolución Ejercicios
 
 6. MANUAL DE USUARIO
 
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Manual.jpg)
+
+6.1 Es el espacio de trabajo de TinkerCAD. Te lo he puesto en naranja para que sepas lo que contiene, el cuadrado grande es la superficie de trabajo y el pequeño son las opciones de dicha superficie: tamaño total, tamaño de la rejilla y unidades de medición.
+
+6.2 Son las formas de visualizar un objeto. El primero es el cubo de visualización, después tenemos zoom, ajuste de pantalla, cambio de vista, y vista de inicio. Vete tocando y mira que significa cada cosa.
+
+6.3 Esta es la zona de edición de piezas, aquí podremos ocultar objetos si nos molestan, hacer simetrías, agrupar, desagrupar y alinear. Es de las herramientas que más usarás y que más tarde veremos.
+
+6.4 Esta es la zona ‘random’, donde podrás acceder a tu zona de usuario, importar y exportar archivos o acceder a algunas funcionalidades adicionales de TinkerCAD que vermos al final del post 🙂
+
+6.5 Este es el espacio de trabajo donde tenemos toooodo el banco de piezas de TinkerCAD. Además, encima tienes las herramientas de plano d trabajo y regla que más adelante veremos (que no te entre el SAV prematuro, tomate una tila y continua).
+
+6.6 Contiene todas las herramientas de edición de documento del TinkerCAD: Copiar, Pegar, Duplicar, Eliminar, Rehacer, Deshacer y si damos al panel justo al lado del nombre podremos cambiar la visibilidad del archivo y su tipo de licencia.
+
 6. CONCLUSIONES
 
 7. BIBLIOGRAFIA
