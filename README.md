@@ -99,17 +99,18 @@ De modo que, al momento de aplicar la segunda ley de Kirchhoff, hay que ser muy 
 7. CONCLUSIONES
 
 *	Al realizar el analisis de mallas de forma experimental podemos comprobar la divición de las corrientes dentro de cada malla del circuito y de igual forma comprobamos como la segunda ley de Kirchhoff se cumple al verificar que la suma de todos los voltajes es igual a cero.
-7.1	Para realizar el análisis de mallas es necesario seguir los siguientes pasos:
 
-  -	Identifica las mallas (las ventanas abiertas del circuito).
+*	Para realizar el análisis de mallas es necesario seguir los siguientes pasos:
 
-  -	Asigna una corriente a cada malla, usando una dirección consistente (a favor o en contra de las manecillas del reloj).
+  1)	Identifica las mallas (las ventanas abiertas del circuito).
 
-  -	Escribe las ecuaciones para la ley del voltaje de Kirchhoff alrededor de cada malla.
+  2)	Asigna una corriente a cada malla, usando una dirección consistente (a favor o en contra de las manecillas del reloj).
 
-  -	Resuelve el sistema de ecuaciones resultante para todas las corrientes de malla.
+  3)  Escribe las ecuaciones para la ley del voltaje de Kirchhoff alrededor de cada malla.
 
-  -	Determina las corrientes y los voltajes de los demás elementos del circuito por medio de la ley de Ohm.
+  4)	Resuelve el sistema de ecuaciones resultante para todas las corrientes de malla.
+
+  5)	Determina las corrientes y los voltajes de los demás elementos del circuito por medio de la ley de Ohm.
 
 *	El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver.
 
@@ -124,3 +125,10 @@ Tabla 3.1
 | 3 | 0,488 | 0.49mA |
 
 8. BIBLIOGRAFIA
+
+* Lorenzo, J. (03 de 06 de 2019). ofelia.com. Obtenido de https://of3lia.com/tinkercad-tutorial-completo/
+
+* McAllister, W. (2017). khanacademy.org. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
+* pr-ser-uj. (04 de 04 de 2020). hetpro-store.com. Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
