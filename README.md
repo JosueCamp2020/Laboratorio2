@@ -117,6 +117,7 @@ De modo que, al momento de aplicar la segunda ley de Kirchhoff, hay que ser muy 
 *	En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos.
 
 --------------------------------------------------------------------------
+PREGUNTAS:
 
 1) Mida cada una de las corrientes y anote los resultados en la tabla 3.1
 
@@ -148,7 +149,7 @@ Tabla 3.1
 
 * Como se puede evidenciar en la Tabla 3.1 estan reflejados los valores obtenidos tanto cálculos analíticos como cálculos experimentales, notamos una cierta diferencia en los valores ya que la plataforma de Tinkercad realiza un redondeado a sus valores, en cambio en los cálculos analíticos se ven reflejados los numeros decimales sin una respectiva redondeada.
 
-* Podemos conlcuir que existe un Porcentaje de Error en los Calculos de la tabla que se veran reflejados a continuacion:
+* Podemos concluir que existe un Porcentaje de Error en los Calculos de la tabla que se veran reflejados a continuacion:
 
 ![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Error.png)
 
