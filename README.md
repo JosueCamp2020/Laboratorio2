@@ -116,6 +116,26 @@ De modo que, al momento de aplicar la segunda ley de Kirchhoff, hay que ser muy 
 
 *	En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos.
 
+--------------------------------------------------------------------------
+
+1) Mida cada una de las corrientes y anote los resultados en la tabla 3.1
+
+* Para resolver las corrientes de cada una de la mallas se ha implementado la Ley de Ohm y la Ley de Voltaje de Kirchhoff.
+
+* Para las mallas se utilizo las sumatoria de voltajes que deben dar el valor de 0, y obtenemos las 3 ecuaciones en funcion de las corrientes.
+
+* Para resolver es necesario implementar un sistema de 3 ecuaciones con 3 incognitas que nos an arrojado los siguientes valores:
+
+* I1 = 11.45 mA    ;  I2 = 2.847 mA   ;  I3 = 0.488 mA
+
+2) Simulación en Tinkercad
+
+* Los datos obtenidos en el circuito diseñado en la plataforma de Tinkercad nos han arrojado ciertos valores que son respectivamente las corrientes de cada una de las mallas, son 3 mallas las cuales se dividen como I1, I2 e I3.
+
+* Los siguientes valores son los siguientes:
+
+* I1 = 11.5 mA    ;  I2 = 2.85 mA   ;  I3 = 0.49 mA
+
 Tabla 3.1
 
 | MALLA | RESULTADOS ANALÍTICOS | RESULTADOS EXPERIMENTALES |
@@ -123,6 +143,14 @@ Tabla 3.1
 | 1 | 11.45mA  | 11.5mA |
 | 2 | 2.847mA | 2.85mA |
 | 3 | 0,488 | 0.49mA |
+
+3) Comparación de Resultados:
+
+* Como se puede evidenciar en la Tabla 3.1 estan reflejados los valores obtenidos tanto cálculos analíticos como cálculos experimentales, notamos una cierta diferencia en los valores ya que la plataforma de Tinkercad realiza un redondeado a sus valores, en cambio en los cálculos analíticos se ven reflejados los numeros decimales sin una respectiva redondeada.
+
+* Podemos conlcuir que existe un Porcentaje de Error en los Calculos de la tabla que se veran reflejados a continuacion:
+
+![](https://github.com/JosueCamp2020/Laboratorio2/blob/main/Imagenes/Error.png)
 
 8. BIBLIOGRAFIA
 
